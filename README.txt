@@ -21,6 +21,4 @@ the original articles can retrieved trough
   http://www.foodspotting.com/reviews/<image_id>
 or through the foodspotting api (http://www.foodspotting.com/api).
 
-The test/train splitting used in the experiment of our paper, can be found in
-the "meta" directory.
 
