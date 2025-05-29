@@ -1,0 +1,504 @@
+{
+    "apple_pie": {
+        "index": 0,
+        "calories": {
+            "index": 0,
+            "calories": 296,
+            "protein": "2g",
+            "fat": "14g",
+            "carbs": "42g",
+            "fiber": "3g"
+        }
+    },
+    "baby_back_ribs": {
+        "index": 1,
+        "calories": {
+            "index": 1,
+            "calories": 484,
+            "protein": "20g",
+            "fat": "39g",
+            "carbs": "10g",
+            "fiber": "0g"
+        }
+    },
+    "baklava": {
+        "index": 2,
+        "calories": {
+            "index": 2,
+            "calories": 334,
+            "protein": "4g",
+            "fat": "22g",
+            "carbs": "30g",
+            "fiber": "1g"
+        }
+    },
+    "beef_carpaccio": {
+        "index": 3,
+        "calories": {
+            "index": 3,
+            "calories": 120,
+            "protein": "12g",
+            "fat": "8g",
+            "carbs": "0g",
+            "fiber": "0g"
+        }
+    },
+    "beef_tartare": {
+        "index": 4,
+        "calories": {
+            "index": 4,
+            "calories": 230,
+            "protein": "14g",
+            "fat": "18g",
+            "carbs": "1g",
+            "fiber": "0g"
+        }
+    },
+    "beet_salad": {
+        "index": 5,
+        "calories": {
+            "index": 5,
+            "calories": 150,
+            "protein": "3g",
+            "fat": "9g",
+            "carbs": "15g",
+            "fiber": "4g"
+        }
+    },
+    "beignets": {
+        "index": 6,
+        "calories": {
+            "index": 6,
+            "calories": 389,
+            "protein": "7g",
+            "fat": "18g",
+            "carbs": "49g",
+            "fiber": "2g"
+        }
+    },
+    "bibimbap": {
+        "index": 7,
+        "calories": {
+            "index": 7,
+            "calories": 490,
+            "protein": "19g",
+            "fat": "15g",
+            "carbs": "72g",
+            "fiber": "4g"
+        }
+    },
+    "bread_pudding": {
+        "index": 8,
+        "calories": {
+            "index": 8,
+            "calories": 312,
+            "protein": "5g",
+            "fat": "12g",
+            "carbs": "44g",
+            "fiber": "1g"
+        }
+    },
+    "breakfast_burrito": {
+        "index": 9,
+        "calories": {
+            "index": 9,
+            "calories": 290,
+            "protein": "13g",
+            "fat": "14g",
+            "carbs": "27g",
+            "fiber": "3g"
+        }
+    },
+    "bruschetta": {
+        "index": 10,
+        "calories": {
+            "index": 10,
+            "calories": 170,
+            "protein": "5g",
+            "fat": "7g",
+            "carbs": "23g",
+            "fiber": "2g"
+        }
+    },
+    "caesar_salad": {
+        "index": 11,
+        "calories": {
+            "index": 11,
+            "calories": 190,
+            "protein": "4g",
+            "fat": "16g",
+            "carbs": "8g",
+            "fiber": "2g"
+        }
+    },
+    "cannoli": {
+        "index": 12,
+        "calories": {
+            "index": 12,
+            "calories": 216,
+            "protein": "5g",
+            "fat": "10g",
+            "carbs": "28g",
+            "fiber": "1g"
+        }
+    },
+    "caprese_salad": {
+        "index": 13,
+        "calories": {
+            "index": 13,
+            "calories": 160,
+            "protein": "7g",
+            "fat": "11g",
+            "carbs": "5g",
+            "fiber": "1g"
+        }
+    },
+    "carrot_cake": {
+        "index": 14,
+        "calories": {
+            "index": 14,
+            "calories": 330,
+            "protein": "3g",
+            "fat": "16g",
+            "carbs": "45g",
+            "fiber": "2g"
+        }
+    },
+    "ceviche": {
+        "index": 15,
+        "calories": {
+            "index": 15,
+            "calories": 120,
+            "protein": "20g",
+            "fat": "2g",
+            "carbs": "4g",
+            "fiber": "1g"
+        }
+    },
+    "cheese_plate": {
+        "index": 16,
+        "calories": {
+            "index": 16,
+            "calories": 400,
+            "protein": "18g",
+            "fat": "33g",
+            "carbs": "3g",
+            "fiber": "0g"
+        }
+    },
+    "cheesecake": {
+        "index": 17,
+        "calories": {
+            "index": 17,
+            "calories": 257,
+            "protein": "5g",
+            "fat": "18g",
+            "carbs": "21g",
+            "fiber": "0g"
+        }
+    },
+    "chicken_curry": {
+        "index": 18,
+        "calories": {
+            "index": 18,
+            "calories": 270,
+            "protein": "20g",
+            "fat": "12g",
+            "carbs": "20g",
+            "fiber": "2g"
+        }
+    },
+    "chicken_quesadilla": {
+        "index": 19,
+        "calories": {
+            "index": 19,
+            "calories": 310,
+            "protein": "16g",
+            "fat": "17g",
+            "carbs": "24g",
+            "fiber": "2g"
+        }
+    },
+    "chicken_wings": {
+        "index": 20,
+        "calories": {
+            "index": 20,
+            "calories": 430,
+            "protein": "22g",
+            "fat": "30g",
+            "carbs": "9g",
+            "fiber": "0g"
+        }
+    },
+    "chocolate_cake": {
+        "index": 21,
+        "calories": {
+            "index": 21,
+            "calories": 235,
+            "protein": "3g",
+            "fat": "12g",
+            "carbs": "30g",
+            "fiber": "1g"
+        }
+    },
+    "chocolate_mousse": {
+        "index": 22,
+        "calories": {
+            "index": 22,
+            "calories": 250,
+            "protein": "4g",
+            "fat": "17g",
+            "carbs": "20g",
+            "fiber": "2g"
+        }
+    },
+    "churros": {
+        "index": 23,
+        "calories": {
+            "index": 23,
+            "calories": 116,
+            "protein": "2g",
+            "fat": "5g",
+            "carbs": "15g",
+            "fiber": "1g"
+        }
+    },
+    "clam_chowder": {
+        "index": 24,
+        "calories": {
+            "index": 24,
+            "calories": 180,
+            "protein": "8g",
+            "fat": "9g",
+            "carbs": "15g",
+            "fiber": "1g"
+        }
+    },
+    "club_sandwich": {
+        "index": 25,
+        "calories": "Unknown"
+    },
+    "crab_cakes": {
+        "index": 26,
+        "calories": "Unknown"
+    },
+    "creme_brulee": {
+        "index": 27,
+        "calories": "Unknown"
+    },
+    "croque_madame": {
+        "index": 28,
+        "calories": "Unknown"
+    },
+    "cup_cakes": {
+        "index": 29,
+        "calories": "Unknown"
+    },
+    "deviled_eggs": {
+        "index": 30,
+        "calories": "Unknown"
+    },
+    "donuts": {
+        "index": 31,
+        "calories": "Unknown"
+    },
+    "dumplings": {
+        "index": 32,
+        "calories": "Unknown"
+    },
+    "edamame": {
+        "index": 33,
+        "calories": "Unknown"
+    },
+    "eggs_benedict": {
+        "index": 34,
+        "calories": "Unknown"
+    },
+    "escargots": {
+        "index": 35,
+        "calories": "Unknown"
+    },
+    "falafel": {
+        "index": 36,
+        "calories": "Unknown"
+    },
+    "filet_mignon": {
+        "index": 37,
+        "calories": "Unknown"
+    },
+    "fish_and_chips": {
+        "index": 38,
+        "calories": "Unknown"
+    },
+    "foie_gras": {
+        "index": 39,
+        "calories": "Unknown"
+    },
+    "french_fries": {
+        "index": 40,
+        "calories": "Unknown"
+    },
+    "french_onion_soup": {
+        "index": 41,
+        "calories": "Unknown"
+    },
+    "french_toast": {
+        "index": 42,
+        "calories": "Unknown"
+    },
+    "fried_calamari": {
+        "index": 43,
+        "calories": "Unknown"
+    },
+    "fried_rice": {
+        "index": 44,
+        "calories": "Unknown"
+    },
+    "frozen_yogurt": {
+        "index": 45,
+        "calories": "Unknown"
+    },
+    "garlic_bread": {
+        "index": 46,
+        "calories": "Unknown"
+    },
+    "gnocchi": {
+        "index": 47,
+        "calories": "Unknown"
+    },
+    "greek_salad": {
+        "index": 48,
+        "calories": "Unknown"
+    },
+    "grilled_cheese_sandwich": {
+        "index": 49,
+        "calories": "Unknown"
+    },
+    "grilled_salmon": {
+        "index": 50,
+        "calories": "Unknown"
+    },
+    "guacamole": {
+        "index": 51,
+        "calories": "Unknown"
+    },
+    "gyoza": {
+        "index": 52,
+        "calories": "Unknown"
+    },
+    "hamburger": {
+        "index": 53,
+        "calories": "Unknown"
+    },
+    "hot_and_sour_soup": {
+        "index": 54,
+        "calories": "Unknown"
+    },
+    "hot_dog": {
+        "index": 55,
+        "calories": "Unknown"
+    },
+    "huevos_rancheros": {
+        "index": 56,
+        "calories": "Unknown"
+    },
+    "hummus": {
+        "index": 57,
+        "calories": "Unknown"
+    },
+    "ice_cream": {
+        "index": 58,
+        "calories": "Unknown"
+    },
+    "lasagna": {
+        "index": 59,
+        "calories": "Unknown"
+    },
+    "lobster_bisque": {
+        "index": 60,
+        "calories": "Unknown"
+    },
+    "lobster_roll_sandwich": {
+        "index": 61,
+        "calories": "Unknown"
+    },
+    "macaroni_and_cheese": {
+        "index": 62,
+        "calories": "Unknown"
+    },
+    "macarons": {
+        "index": 63,
+        "calories": "Unknown"
+    },
+    "miso_soup": {
+        "index": 64,
+        "calories": "Unknown"
+    },
+    "mussels": {
+        "index": 65,
+        "calories": "Unknown"
+    },
+    "nachos": {
+        "index": 66,
+        "calories": "Unknown"
+    },
+    "omelette": {
+        "index": 67,
+        "calories": "Unknown"
+    },
+    "onion_rings": {
+        "index": 68,
+        "calories": "Unknown"
+    },
+    "oysters": {
+        "index": 69,
+        "calories": "Unknown"
+    },
+    "pad_thai": {
+        "index": 70,
+        "calories": "Unknown"
+    },
+    "paella": {
+        "index": 71,
+        "calories": "Unknown"
+    },
+    "pancakes": {
+        "index": 72,
+        "calories": "Unknown"
+    },
+    "panna_cotta": {
+        "index": 73,
+        "calories": "Unknown"
+    },
+    "peking_duck": {
+        "index": 74,
+        "calories": "Unknown"
+    },
+    "pho": {
+        "index": 75,
+        "calories": "Unknown"
+    },
+    "pizza": {
+        "index": 76,
+        "calories": "Unknown"
+    },
+    "pork_chop": {
+        "index": 77,
+        "calories": "Unknown"
+    },
+    "poutine": {
+        "index": 78,
+        "calories": "Unknown"
+    },
+    "prime_rib": {
+        "index": 79,
+        "calories": {
+            "index": 79,
+            "calories": 670,
+            "protein": "62g",
+            "fat": "46g",
+            "carbs": "0g",
+            "fiber": "0g"
+        }
+    }
+}

@@ -1,0 +1,184 @@
+{
+    "apple_pie": {
+        "calories": 296,
+        "protein": "2g",
+        "fat": "14g",
+        "carbs": "42g",
+        "fiber": "3g"
+    },
+    "baby_back_ribs": {
+        "calories": 484,
+        "protein": "45g",
+        "fat": "35g",
+        "carbs": "12g",
+        "fiber": "0g"
+    },
+    "baklava": {
+        "calories": 334,
+        "protein": "6g",
+        "fat": "22g",
+        "carbs": "28g",
+        "fiber": "1g"
+    },
+    "beef_carpaccio": {
+        "calories": 120,
+        "protein": "15g",
+        "fat": "7g",
+        "carbs": "0g",
+        "fiber": "0g"
+    },
+    "beef_tartare": {
+        "calories": 230,
+        "protein": "19g",
+        "fat": "17g",
+        "carbs": "0g",
+        "fiber": "0g"
+    },
+    "beet_salad": {
+        "calories": 150,
+        "protein": "4g",
+        "fat": "10g",
+        "carbs": "12g",
+        "fiber": "3g"
+    },
+    "beignets": {
+        "calories": 389,
+        "protein": "6g",
+        "fat": "25g",
+        "carbs": "32g",
+        "fiber": "1g"
+    },
+    "bibimbap": {
+        "calories": 490,
+        "protein": "14g",
+        "fat": "15g",
+        "carbs": "73g",
+        "fiber": "5g"
+    },
+    "bread_pudding": {
+        "calories": 312,
+        "protein": "6g",
+        "fat": "10g",
+        "carbs": "50g",
+        "fiber": "2g"
+    },
+    "breakfast_burrito": {
+        "calories": 290,
+        "protein": "12g",
+        "fat": "13g",
+        "carbs": "29g",
+        "fiber": "3g"
+    },
+    "bruschetta": {
+        "calories": 170,
+        "protein": "3g",
+        "fat": "6g",
+        "carbs": "24g",
+        "fiber": "2g"
+    },
+    "caesar_salad": {
+        "calories": 190,
+        "protein": "7g",
+        "fat": "15g",
+        "carbs": "7g",
+        "fiber": "2g"
+    },
+    "cannoli": {
+        "calories": 216,
+        "protein": "5g",
+        "fat": "10g",
+        "carbs": "25g",
+        "fiber": "1g"
+    },
+    "caprese_salad": {
+        "calories": 160,
+        "protein": "8g",
+        "fat": "12g",
+        "carbs": "6g",
+        "fiber": "1g"
+    },
+    "carrot_cake": {
+        "calories": 330,
+        "protein": "3g",
+        "fat": "16g",
+        "carbs": "44g",
+        "fiber": "2g"
+    },
+    "ceviche": {
+        "calories": 120,
+        "protein": "18g",
+        "fat": "2g",
+        "carbs": "6g",
+        "fiber": "1g"
+    },
+    "cheese_plate": {
+        "calories": 400,
+        "protein": "20g",
+        "fat": "32g",
+        "carbs": "2g",
+        "fiber": "0g"
+    },
+    "cheesecake": {
+        "calories": 257,
+        "protein": "5g",
+        "fat": "18g",
+        "carbs": "20g",
+        "fiber": "1g"
+    },
+    "chicken_curry": {
+        "calories": 270,
+        "protein": "25g",
+        "fat": "12g",
+        "carbs": "15g",
+        "fiber": "2g"
+    },
+    "chicken_quesadilla": {
+        "calories": 310,
+        "protein": "20g",
+        "fat": "14g",
+        "carbs": "25g",
+        "fiber": "2g"
+    },
+    "chicken_wings": {
+        "calories": 430,
+        "protein": "24g",
+        "fat": "35g",
+        "carbs": "0g",
+        "fiber": "0g"
+    },
+    "chocolate_cake": {
+        "calories": 235,
+        "protein": "4g",
+        "fat": "12g",
+        "carbs": "30g",
+        "fiber": "2g"
+    },
+    "chocolate_mousse": {
+        "calories": 250,
+        "protein": "5g",
+        "fat": "18g",
+        "carbs": "16g",
+        "fiber": "2g"
+    },
+    "clam_chowder": {
+        "calories": 180,
+        "protein": "10g",
+        "fat": "12g",
+        "carbs": "10g",
+        "fiber": "1g"
+    },
+    "club_sandwich": {
+        "calories": 275,
+        "protein": "14g",
+        "fat": "10g",
+        "carbs": "30g",
+        "fiber": "2g"
+    },
+    "crab_cakes": {
+        "calories": 190,
+        "protein": "16g",
+        "fat": "10g",
+        "carbs": "12g",
+        "fiber": "1g"
+    }
+}
